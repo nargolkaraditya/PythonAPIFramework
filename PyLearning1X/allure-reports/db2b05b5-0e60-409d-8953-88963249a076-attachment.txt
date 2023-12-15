@@ -1,0 +1,2 @@
+create booking Testcase
+<class 'str'>
